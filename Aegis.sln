@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aegis.SignalR.Client.Abstractions", "Aegis.SignalR.Client.Abstractions\Aegis.SignalR.Client.Abstractions.csproj", "{C70118CC-2B33-46F3-933E-7435BE5CEED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aegis.SignalR.Client", "Aegis.SignalR.Client\Aegis.SignalR.Client.csproj", "{F68E32BC-8E7A-4C44-BD5B-EDCFC37FD34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aegis.Hubs", "Aegis.Hubs\Aegis.Hubs.csproj", "{AD470E3A-EF93-4532-9D01-5BE5021CC467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aegis.Models", "Aegis.Models\Aegis.Models.csproj", "{05D0DFB5-200B-40AB-AE10-BFF710942293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aegis.WebApp", "Aegis.WebApp\Aegis.WebApp.csproj", "{1C66A363-AF07-473E-9CAB-636D12FF24E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aegis.ClientApp", "Aegis.ClientApp\Aegis.ClientApp.csproj", "{655E39A8-0F63-45C6-A5EF-CBD52789D677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70118CC-2B33-46F3-933E-7435BE5CEED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70118CC-2B33-46F3-933E-7435BE5CEED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70118CC-2B33-46F3-933E-7435BE5CEED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70118CC-2B33-46F3-933E-7435BE5CEED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68E32BC-8E7A-4C44-BD5B-EDCFC37FD34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68E32BC-8E7A-4C44-BD5B-EDCFC37FD34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68E32BC-8E7A-4C44-BD5B-EDCFC37FD34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68E32BC-8E7A-4C44-BD5B-EDCFC37FD34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD470E3A-EF93-4532-9D01-5BE5021CC467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD470E3A-EF93-4532-9D01-5BE5021CC467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD470E3A-EF93-4532-9D01-5BE5021CC467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD470E3A-EF93-4532-9D01-5BE5021CC467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D0DFB5-200B-40AB-AE10-BFF710942293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D0DFB5-200B-40AB-AE10-BFF710942293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D0DFB5-200B-40AB-AE10-BFF710942293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D0DFB5-200B-40AB-AE10-BFF710942293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C66A363-AF07-473E-9CAB-636D12FF24E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C66A363-AF07-473E-9CAB-636D12FF24E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C66A363-AF07-473E-9CAB-636D12FF24E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C66A363-AF07-473E-9CAB-636D12FF24E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655E39A8-0F63-45C6-A5EF-CBD52789D677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655E39A8-0F63-45C6-A5EF-CBD52789D677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655E39A8-0F63-45C6-A5EF-CBD52789D677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655E39A8-0F63-45C6-A5EF-CBD52789D677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
